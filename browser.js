@@ -1,1 +1,1 @@
-export * from '@napi-rs/package-template-wasm32-wasi'
+export * from '@nypc-perf/perf-wasm32-wasi'
